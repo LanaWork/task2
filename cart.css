@@ -1,0 +1,95 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.banner{
+    width: 472px;
+    height: 348px;
+    background-image: url("cart.png");
+    background-size: cover;
+    border-radius: 10px;
+    margin: 0 auto;
+    position: relative;  
+}
+.item{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(248, 242, 242);
+    border-radius: 0px;
+    position: absolute;
+    right: 340px;
+    bottom: 110px;
+} 
+.item1{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(248, 242, 242);
+    border-radius: 0px;
+    position: absolute;
+    right: 240px;
+    bottom: 110px;
+} 
+.item2{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(248, 242, 242);
+    border-radius: 0px;
+    position: absolute;
+    right: 140px;
+    bottom: 110px;
+} 
+.item3{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(248, 242, 242);
+    border-radius: 0px;
+    position: absolute;
+    right: 40px;
+    bottom: 110px;
+} 
+.text{
+
+    color: rgb(250, 246, 246);
+    font-size: 16px;
+    position: absolute;
+    right: 310px;
+    bottom: 75px;
+
+}
+.month{
+    width: 37px;
+    height: 25px;
+    background-color: rgb(248, 242, 242);
+    border-radius: 0px;
+    position: absolute;
+    right: 272px;
+    bottom: 75px;
+
+}
+.year{
+    width: 37px;
+    height: 25px;
+    background-color: rgb(248, 242, 242);
+    border-radius: 0px;
+    position: absolute;
+    right: 230px;
+    bottom: 75px;
+}
+.name{
+    width: 260px;
+    height: 30px;
+    background-color: rgb(248, 242, 242);
+    border-radius: 0px;
+    position: absolute;
+    right: 180px;
+    bottom: 35px;
+}
+.text1{
+    color: rgb(250, 246, 246);
+    font-size: 16px;
+    position: absolute;
+    right: 360px;
+    bottom: 20px;   
+}
